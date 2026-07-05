@@ -1,6 +1,6 @@
-# Dumbass Machine Learning Model
+# Machine Learning Model
 
-This project is a simple ("dumbass") machine learning model built for binary classification using the **MAGIC Gamma Telescope (MAGIC04)** dataset.
+This project is a simple machine learning model built for binary classification using the **MAGIC Gamma Telescope (MAGIC04)** dataset.
 
 The MAGIC04 dataset contains observations collected by the **Major Atmospheric Gamma Imaging Cherenkov (MAGIC) Telescope**. Instead of capturing gamma rays directly, the telescope records the **Cherenkov radiation** produced when high-energy gamma rays interact with Earth's atmosphere. From these observations, several numerical features are extracted and used to distinguish **gamma-ray events** from **hadronic (background) events**.
 
