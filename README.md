@@ -9,6 +9,7 @@ The MAGIC04 dataset contains observations collected by the **Major Atmospheric G
 Gamma rays are among the highest-energy forms of electromagnetic radiation and provide valuable information about some of the most energetic phenomena in the universe, including supernova remnants, pulsars, black holes, and active galactic nuclei. Accurate gamma-ray classification helps astronomers filter background noise, improve observational accuracy, and gain a better understanding of high-energy astrophysical processes.
 
 ![MAGIC Telescope](images/images.jpg)
+![MAGIC Telescope](images/images.png)
 
 ## Dataset
 
